@@ -83,3 +83,5 @@ lint/tmp/
 .DS_Store
 
 google-services.json
+
+.idea/
